@@ -191,8 +191,7 @@
                 android:layout_marginEnd="20dp"
                 android:background="@android:color/transparent"
                 android:src="@drawable/ic_forward_icon"
-                app:tint="@color/black"
-                android:onClick="backToDashboard"/>
+                app:tint="@color/black"/>
 
             <HorizontalScrollView
                 android:id="@+id/WeekScrollView"
@@ -224,8 +223,7 @@
                         android:background="@drawable/all_rounded_corners"
                         android:backgroundTint="#246EE9"
                         android:gravity="center"
-                        android:orientation="vertical"
-                        android:onClick="openDateSpecificSchedule">
+                        android:orientation="vertical">
 
                         <TextView
                             android:id="@+id/Week_day1"
@@ -252,9 +250,9 @@
                         android:layout_height="75dp"
                         android:layout_marginEnd="10dp"
                         android:background="@drawable/all_rounded_corners"
+                        android:clickable="true"
                         android:gravity="center"
-                        android:orientation="vertical"
-                        android:clickable="true">
+                        android:orientation="vertical">
 
                         <TextView
                             android:id="@+id/Week_day2"

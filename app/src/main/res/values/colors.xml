@@ -14,4 +14,13 @@
     <color name="royal_blue">#246EE9</color>
     <color name="hint">#b3b3b3</color>
     <color name="pri_theme">#246EE9</color>
+    <color name="purple">#654ea3</color>
+    <color name="pastal_purple">#4DEB8BEF</color>
+    <color name="compli_royal_blue">#e1b941</color>
+    <color name="suspended_task_color">#EC6B56</color>
+    <color name="finished_task_color">#47B39C</color>
+    <color name="pending_task_color">#FFC154</color>
+    <color name="soft_black">#252525</color>
+
+
 </resources>
