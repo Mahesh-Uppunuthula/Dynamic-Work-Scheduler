@@ -31,41 +31,23 @@ public class MainActivity extends AppCompatActivity {
         mDate_TV = findViewById(R.id.date_TV);
         mBtn = findViewById(R.id.btn);
 
+        /* IGNORE THIS JUNK
+
         LocalDate date = LocalDate.parse("2022-12-07");
         DayOfWeek dayOfWeek = date.getDayOfWeek();
-//        mDate_TV.setText(String.valueOf(dayOfWeek));
+        mDate_TV.setText(String.valueOf(dayOfWeek));
 
         String temp = getIntent().getStringExtra("title");
         if(temp == null)
             Log.d("title1", "null");
-//        Log.d("title1", temp);
+        Log.d("title1", temp);
 
-//        findViewById(R.id.create).setOnClickListener(view -> {
-//            startActivity(new Intent(MainActivity.this, CreateTask.class));
-//            finish();
-//        });
-
-//        mBtn.setOnClickListener(view -> {
-//            mDate_TV.setText(SyncHelper.getInstance());
-//
-//            boolean isDataAvailable = SyncHelper.isDataAvailable;
-//            if(isDataAvailable)
-//                mDate_TV.setText(SyncHelper.getTask().getTitle());
-
-//        });
-
+        Till here */
     }
-
-
-//    public void openDashboard(View view)
-//    {
-//        startActivity(new Intent(this, SignIn.class));
-//        finish();
-//    }
-//
     @Override
     protected void onStart() {
         super.onStart();
+//        startActivity(new Intent(MainActivity.this, Dashboard.class));
         startActivity(new Intent(MainActivity.this, Dashboard.class));
         finish();
     }

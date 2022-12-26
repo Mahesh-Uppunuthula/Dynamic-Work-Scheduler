@@ -18,13 +18,6 @@ public class SyncHelper
     public static TaskHelper getTask() {
         return task;
     }
-//
-//    @Override
-//    public static String toString() {
-//        return "SyncHelper{" +
-//                "isDataAvailable=" + isDataAvailable +
-//                ", task=" + task +
-//                '}';
-//    }
+
 }
 
