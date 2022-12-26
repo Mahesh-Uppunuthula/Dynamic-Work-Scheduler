@@ -7,48 +7,21 @@
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/all_rounded_corners.xml" value="0.233" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/all_rounded_corners_big.xml" value="0.233" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/all_rounded_corners_small_btn.xml" value="0.253" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/all_rounded_corners_very_small_btn.xml" value="0.2665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/bottom_rounded_corners.xml" value="0.253" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/category_all_rounded_corners.xml" value="0.2665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/create_task_style.xml" value="0.253" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/finished_task_bg.xml" value="0.2665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/ic_add_label.xml" value="0.2665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.253" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/ic_baseline_calendar_month_24.xml" value="0.253" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/ic_chart.xml" value="0.2665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/ic_finished.xml" value="0.2665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/ic_pending.xml" value="0.2665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/ic_priority_icon.xml" value="0.253" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/ic_right_arrow.xml" value="0.2665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/ic_suspended.xml" value="0.2665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/input_field_all_rounded_corners.xml" value="0.253" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/list_item_all_rounded_corners.xml" value="0.2665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/pending_task_bg.xml" value="0.2665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/suspended_task_bg.xml" value="0.2665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/tinted_all_rounded_corners.xml" value="0.2545" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/tinted_all_rounded_corners_small_btn.xml" value="0.2545" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/tintied_all_rounded_corners_small_btn.xml" value="0.2665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/top_rounded_corners.xml" value="0.253" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/drawable/upside_top_bottom_rounded_corners.xml" value="0.2665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_create_task.xml" value="0.38697916666666665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_dashboard.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_dashboard.xml" value="0.381025641025641" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_experiment.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_main.xml" value="0.381025641025641" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_report_screen.xml" value="0.38697916666666665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_schedule.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_schedule_overview.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_sign_in.xml" value="0.38697916666666665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_task_item.xml" value="0.38697916666666665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/activity_user_list_item.xml" value="0.38697916666666665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/catrgory_list_item.xml" value="0.3859375" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/ongoing_task.xml" value="0.3859375" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/priority_dropdown_itemm.xml" value="0.24791666666666667" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/task_activity_cancel_dialog.xml" value="0.3859375" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/task_activity_dialog.xml" value="0.3859375" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/task_category_selection_dialog.xml" value="0.3859375" />
         <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/layout/user_task_activity_list_item.xml" value="0.38697916666666665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2665" />
-        <entry key="..\:/Users/Mahesh/AndroidStudioProjects/DynamicWorkScheduler/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.209" />
       </map>
     </option>
   </component>
